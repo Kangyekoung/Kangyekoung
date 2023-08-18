@@ -36,15 +36,15 @@ I’m currently learning Basic Programming skills like HTML, CSS, Javascript, jq
 How to reach me: Kanghyekoung@gmail.com  
 
 <!-- 관심분야 -->
-## Interest <br>
+## Interest⭐ <br>
 Web development, cloud platform, AI  
 
 <!-- 최근 프로젝트 --> <!-- [표시내용](링크 url) -->
-## Latest Projects  
+## Latest Projects 📜  
 [1. naverai](https://github.com/Kangyekoung/naverai_repo_final.git)  
 
 <!-- 사용할 수 있는 언어 및 툴 -->
-## Languages and Tools  
+## Languages and Tools ⚒️  
 <!-- 1. 글자 -->
 HTML, CSS, Javascript, React, Spring boot, Mysql, sts4....  
 <!-- 2. 뱃지 --> <!-- ![Static Badge](https://img.shields.io/badge/[badgeContent:표시할이름-색상]?style=[plastic, flat, flat-square, for-the-badge, social]&logo=[기술스택아이콘]&logoColor=[로고색]) -->
@@ -55,8 +55,6 @@ HTML, CSS, Javascript, React, Spring boot, Mysql, sts4....
 
 <!-- 3. 이미지 --><!-- ![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg "java)") -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70px" width="70px" />
-
-
           
 <!-- 기타 (github 통계) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kangyekoung&show_icons=true&theme=dark)
